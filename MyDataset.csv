@@ -1,0 +1,39 @@
+;;;"
+";;;;
+;;;;;;;
+Id;;Nama_Perusahaan;Nama_Angkutan;;Jenis_Nama;;Jumlah
+1;;PT. Presiden Taksi;Taksi;;Reguler;;353
+2;;PT. Buana Metropolitan;Taksi;;Reguler;;2
+3;;PT. Primajasa Perdanaraya;Taksi;;Reguler;;400
+4;;PT. Blue Bird;Taksi;;Reguler;;1595
+5;;PT. Cendrawasih Pertiwi Jaya;Taksi;;Reguler;;2450
+6;;PT. Morante Jaya;Taksi;;Reguler;;2000
+7;;PT. Gamya;Taksi;;Reguler;;689
+8;;PT. Lintas Buana Taks;Taksi;;Reguler;;1100
+9;;PT. Luhur Satria Sejatikencana;Taksi;;Reguler;;1500
+10;;PT. Dharma Indah Agung. M (Dian Taksi);Taksi;;Reguler;;355
+11;;PT. Sriyani Asti;Taksi;;Reguler;;320
+12;;PT. Ratax Armada;Taksi;;Reguler;;75
+13;;PT. Sri Medali;Taksi;;Reguler;;44
+14;;PT. Express Transindo Utama;Taksi;;Reguler;;2500
+15;;PT. Royal City;Taksi;;Reguler;;16
+16;;PT. Irdawan Multi Tran;Taksi;;Reguler;;200
+17;;PT. Citra Transpor Nusantara;Taksi;;Reguler;;923
+18;;Kop. Taksi Indonesia;Taksi;;Reguler;;357
+19;;Kosti Jaya;Taksi;;Reguler;;189
+20;;Kop. Taksi Sepakat;Taksi;;Reguler;;113
+21;;Transkoveri DK;Taksi;;Reguler;;7
+22;;PT. Central Naga Europindo;Taksi;;Reguler;;3350
+23;;PT. Prima Sarijati Agung;Taksi;;Reguler;;850
+24;;PT. Semesta Indo Prima;Taksi;;Reguler;;1100
+25;;Koptajasa;Taksi;;Reguler;;123
+26;;PT. Tulus Sinar Selatan;Taksi;;Reguler;;160
+27;;PT. Bersatu Aman Sejahtera;Taksi;;Reguler;;458
+28;;PT. Panorama Transportas;Taksi;;Reguler;;300
+29;;PT. Pusaka Satria Utama;Taksi;;Reguler;;200
+30;;PT. Blue Bird Pusaka;Taksi;;Reguler;;500
+31;;PT. Berkat Oto Sejahtera;Taksi;;Reguler;;50
+32;;PUSKOPAU Taxi Bandara;Taksi;;Reguler;;100
+33;;PT. Silver Bird;Taksi;;Ekeskutif;;1295
+34;;PT. Panorama Transportasi Tbk;Taksi;;Ekeskutif;;400
+35;;PT. Express Kencanakelola Jayajasa;Taksi;;Ekeskutif;;108
